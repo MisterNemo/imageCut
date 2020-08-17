@@ -4,7 +4,7 @@
 
 `docker-compose up`
 
-`docker-compose exec myapp php artisan migrage`
+`docker-compose exec myapp php artisan migrate`
 
 `docker-compose exec myapp php artisan storage:link`
 
